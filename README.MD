@@ -9,61 +9,29 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [LeonardoAI](https://leonardo.ai/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Áudio gerado pela elevenLabs
+- LeonardoAI Para gerar capa
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-## 📚 Materiais
+## 🧠 Prompts
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+ChatGPT：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Você é um roteirista de podcast e vai criar um podcast para trazer uma introdução sobre gestão de riscos para iniciantes em gestão de riscos que vai falar da importância da gestão de riscos e suas etapas principais. Crie 5 sugestões de nomes criativos que chamem a atenção do ouvinte para ouvir esse podcast.                                                    |
+| conteúdo | Você é um roteirista de podcast e vai criar um podcast para trazer uma introdução sobre gestão de riscos para iniciantes em gestão de riscos. O podcast será apresentado por Vânia. O podcast deve ser curto. Não ultrapasse 3 minutos de duração. O conteúdo deve abordar a importância da gestão de riscos, os momentos de identificar riscos, avaliar, tratar e monitorar. Comece o texto com uma saudação ao ouvinte, dizendo que está feliz por ele ter buscado esse conteúdo e diga porque esse conhecimento é importante para ele. Ao final, parabenize o ouvinte por ter aprendido sobre riscos, lembre do papel do ouvinte nesse processo e diga que o aguarda no próximo episódio para que ele possa se aprofundar nos tópicos tratados neste episódio. |
 
 
-## 🛠️ Instruções de execução
+LeonardoAI：
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| capa | uma mulher podcaster, desenhada, vestida com um blazer marrom com um microfone de estúdio em frente a ela e ela em um fundo organizacional |
